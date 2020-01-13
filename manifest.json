@@ -3,7 +3,7 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "data:image/png;base64,AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAABILAAASCwAAAAAAAAAAAAD////////////////09PT/39/f/9ra2v/m5ub/8PDw//z8/P////////////7+/v///////////////////////////////////////Pz8//Dw8P/IyMj/q6ur/7Ozs/+8vLz/0dHR//Hx8f///////v7+///////////////////////+/v7//////////////////////9jY2P+srKz/sbGx/62trf+wsLD/1dXV///////+/v7///////////////////////Pz8//5+fn///////7+/v//////0dHR/62trf+ysrL/tLS0/62trf/Ly8v///////r6+v///////////83Nzf/CwsL/zMzM/8nJyf+xsbH/mJiY/6ampv+IiIn/d3d4/3x8fP9+fn7/fHx8/5GRkf/m5ub///////////+srK3/19ja/9DR0v+LjI3/zM3O/7m6u/+mqKn/iouM/2VmZ/9oaWv/hoeJ/4aHiP9maGn/3N3d////////////+/r5/+Da0//l4dz/8fDt///////+/v7///////379/+rpZ//p6Kb/7+6s/++ubL/ta+o/9za1v///////////9Hl/P+Duv7/grr7/4C59/95svP/ebL0/3my9P99tvj/bKXo/2Ob3f9hmdv/X5jb/1uU1/+rvtL///////f7/f9HlfL/Gnrw/yB+8P8Td+//HX7x/yOB8f8igPH/IoDw/yWD9P8bfvX/HX/2/yqH9v8fgff/TZfy//r7/P/m8vz/PI/y/y2G8v9CkvL/ibz1/0uY8/8uh/L/NIry/zOK8v8uiPD/d7D0/2uq8/8thvD/L4fx/z+R8//s9f7/6fP8/0CS8v8efvH/oMn3//////+71/n/J4Lx/zSK8v8ng/L/XKH0///////1+f7/R5bz/yeC8v9BkvP/7vX9/+jz/P9AkfL/H37x/7HS+P//////y+H7/ymE8f80ivL/JYHy/2yq9P///////v7//1Oc9P8kgfL/QpLz/+71/f/n8vz/QJHy/ySB8v91r/X/9/r8/4u89f8ng/L/NIry/y2G8v9CkvL/2+r7/8fg+P82i/L/LIby/0GS8//s9f3/7vX8/ziM8f8lgvL/JoLx/y6H8f8lgvH/KoXy/yqF8v8rhvL/JoPx/yuF8f8phPH/KYTy/ySB8v89j/L/8/n+//////+fx/f/QJHz/0eV8/9Ek/L/RpTy/0WU8v9FlPL/RZTy/0aU8v9ElPL/RZTy/0eV8v9BkfL/pMr3//////////////////b6/v/y9/7/8/j+//P4/v/z+P7/8/j+//P4/v/y+P7/8/j+//P4/v/y9/7/9vr+////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
